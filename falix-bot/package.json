@@ -1,0 +1,12 @@
+{
+  "name": "falix-bot",
+  "version": "1.0.0",
+  "description": "Minecraft bot for keeping FalixNodes alive",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.5.0"
+  }
+}
